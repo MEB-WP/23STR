@@ -163,7 +163,7 @@
 
       <div>
         <span class="label">Taille :</span>
-        2XL
+        XL
       </div>
 
       <div>
